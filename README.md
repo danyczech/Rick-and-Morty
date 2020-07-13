@@ -1,1 +1,2 @@
 # Rick-and-Morty
+Dle zadání vytvořeny 2 templaty pro postavy a místa. Spuštění otevřením souboru html v prohlížeči. Pokud prohlížeč nespolupracuje s posledními verzemi JavaScriptu, jsou přiloženy soubory character-babel.js a location-babel.js, které vznikly překompilováním do starších verzí JavaScriptu v Babelu. Pak je třeba v html souboru přepsat název .js souboru, který se má použít (tedy předpokládám, že to tak funguje, nemám to na čem vyzkoušet a nikdy jsem to neřešila).
